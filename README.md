@@ -2,6 +2,7 @@
 
 This Python script automates the creation of `.nfo` metadata files and downloads movie posters for a folder-based media library. It uses [IMDbPY](https://github.com/alberanid/imdbpy) and [OMDb API](http://www.omdbapi.com/) to fetch metadata and posters, ensuring compatibility with media managers like **Kodi** and **Plex**.
 
+****** Tested for Jellyfin, should work for Plex and Emby as well, just check on what name the poster should be saved and modify accordingly *******
 ---
 
 ## 📦 Features
