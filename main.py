@@ -170,3 +170,5 @@ def process_subfolders(root_folder):
 # === Example usage ===
 root_folder = r"W:\media\music\artist"
 process_subfolders(root_folder)
+
+print ("\n✅ All done!")
